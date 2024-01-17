@@ -6,7 +6,7 @@
 Excel | SQL | Python | R | Tableau 
 
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📫 How to reach me: rafa.abdelazim@gmail.com
+😄 Pronouns: She/her
+⚡ Fun fact: I'm a blend of so many cultures due to moving throughout my childhood between Europe, the Middle East and Africa 
 -->
