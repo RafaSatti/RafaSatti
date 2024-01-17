@@ -10,7 +10,7 @@ Excel | SQL | Python | R | Tableau
 
 😄 Pronouns: She/her
 
-⚡ Fun fact: I'm a blend of so many cultures due to moving throughout my childhood between Europe, the Middle East and Africa 
+⚡ Fun fact: Throughout my childhood I moved between Europe, the Middle East and Africa 
 
 
 
