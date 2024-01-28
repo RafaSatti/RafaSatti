@@ -1,4 +1,4 @@
-![da_animation](https://github.com/RafaSatti/RafaSatti/assets/121511244/3448e9d1-43f9-486e-942e-7750eaaf04b7)
+![da_animation](https://github.com/RafaSatti/RafaSatti/assets/121511244/84f4dd34-7970-41c1-9021-08d969e84087)
 
 ### Hi there 👋
 
@@ -10,7 +10,7 @@ Excel | SQL | Python | R | Tableau
 
 😄 Pronouns: She/her
 
-⚡ Fun fact: Throughout my childhood I moved between Europe, the Middle East and Africa 
+⚡ Fun fact: Throughout my lifetime I lived between Europe, the Middle East and Africa 
 
 
 
