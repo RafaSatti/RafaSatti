@@ -1,5 +1,4 @@
-![da_animation](https://github.com/RafaSatti/RafaSatti/assets/121511244/84f4dd34-7970-41c1-9021-08d969e84087)
-
+![data analysis animation](https://github.com/RafaSatti/RafaSatti/assets/121511244/ae85e1a4-35f4-4f81-bcbd-a9d0d3aa6543)
 ### Hi there 👋
 
 A **`Data Analyst`** 's journey from Medicine to Tech  
