@@ -11,5 +11,7 @@ Excel | SQL | Python | R | Tableau
 
 ⚡ Fun fact: Throughout my lifetime I lived between Europe, the Middle East and Africa 
 
+View Tableau Dashbaords on: https://public.tableau.com/app/profile/rafa.abdelazim/vizzes
+
 
 
